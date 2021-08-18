@@ -1,0 +1,73 @@
+.owl-nav button {
+    position: absolute;
+    top: 50%;
+    background-color: #000;
+    color: #fff;
+    margin: 0;
+    transition: all 0.3s ease-in-out;
+  }
+  .owl-nav button.owl-prev {
+    left: -15px;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+  }
+  .owl-nav button.owl-next {
+    right: -15px;
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+  }
+  
+  .owl-dots {
+    text-align: center;
+    padding-top: 15px;
+  }
+  .owl-dots button.owl-dot {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    display: inline-block;
+    background: #ccc;
+    margin: 0 3px;
+  }
+  .owl-dots button.owl-dot.active {
+    background-color: #000;
+  }
+  .owl-dots button.owl-dot:focus {
+    outline: none;
+  }
+  .owl-nav button {
+      position: absolute;
+      top: 40%;
+      transform: translateY(-40%);
+      background: rgba(255, 255, 255, 0.8) !important;
+  }
+  .owl-nav button:hover{
+      background-color: #ff0062 !important;
+  }
+  .owl-nav button span {
+    font-size: 45px;
+    position: relative;
+    transition: all 0.5s ease;
+    padding: 20px;
+  }
+  .owl-nav button:focus {
+      outline: none;
+  }
+
+  .img-card img{
+      /* width: 100% !important; */
+  }
+  .img-card h6{
+    color: #444444;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+    margin: 10px 0;
+  }
+
+  .owl-carousel .owl-dot, 
+  .owl-carousel .owl-nav .owl-next span:hover, 
+  .owl-carousel .owl-nav .owl-prev span:hover{
+      padding: 30px;
+      color: #ffffff !important;
+  }

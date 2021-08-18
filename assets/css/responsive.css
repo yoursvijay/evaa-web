@@ -1,0 +1,345 @@
+@media only screen and (min-width:1600px){
+    .slider-container .slider-content h2{
+        font-size: 63px;
+    }
+   .slider-container .slider-content span{
+        font-size: 28px;
+    }
+    #header .nav-menu a{
+        font-size: 18px;
+    }
+    #header .nav-menu-one ul li a img{
+        width: 100%;
+    }
+    .section-content div h3{
+        font-size: 48px;
+        line-height: 72px;
+    }
+    .section-content div h3::after{
+        width: 42px;
+        height: 4px;
+    }
+    .section-content span{
+        font-size: 24px;
+        padding-top: 18px;
+        display: block;
+    }
+    .primary-btn, .secondary-btn{
+        width: 327px;
+        height: 96px;
+        font-size: 24px;
+    }
+    #product .section-text,
+    #working-demo .left-sec .section-text{
+        font-size: 18px;
+        line-height: 50px;
+    }
+    #working-demo .right-sec div{
+        max-width: 763px;
+        height: 701px;
+    }
+    #working-demo .right-sec div ul li{
+        font-size: 28px;
+    }
+    
+    .take-a-tour-btn-one{
+        width: 282px;
+        height: 80px;
+    }
+    .take-a-tour-btn-one{
+        font-size: 22px;
+    }
+    .take-a-tour-btn-one img{
+        width: auto;
+    }
+    
+    .take-a-tour-btn-two{
+        width: 282px;
+        height: 80px;
+    }
+    .take-a-tour-btn-two{
+        font-size: 22px;
+    }
+    .take-a-tour-btn-two img{
+        width: auto;
+    }
+    
+    #features .content-row .accordion .card a.btn span{
+        font-size: 36px;
+    }
+    #features .content-row .accordion .f-card{
+        font-size: 18px;
+    }
+    #features .content-row .right-sec .card{
+        max-width: 670px;
+    }
+    #features .content-row .accordion .card a.btn{
+        padding: 30px 16px;
+    }
+    #Additional .slider-row .card{
+        width: 668px;
+        height: 340px;
+    }
+    .additional-slider .card .body h5{
+        font-size: 36px;
+    }
+    .additional-slider .card .body p{
+        font-size: 18px;
+    }
+    
+    #Additional .section-content2 h3{
+        font-size: 48px;
+    }
+    #Additional .section-content2 span.sub-text{
+        font-size: 24px;
+    }
+    .additional-slider .card .body h5 img{
+        width: auto;
+    }
+    #Industries .sec-content3 img{
+        width: auto;
+        height: auto;
+    }
+    #Industries .sec-content3 div h3,
+    #Get-evaa .content h3{
+        font-size: 48px;
+    }
+    #Industries .sec-content3 div span,
+    #Industries .content-row .img-card h6{
+        font-size: 24px;
+    }
+    #Get-evaa .content span.sub-text{
+        font-size: 44px;
+    }
+    .white-btn{
+        width: 272px;
+        height: 80px;
+    }
+    .white-btn span{
+        font-size: 24px;
+    }
+    #Footer .row-one .page-links ul li a,
+    #Footer .row-one .footer-logo div p{
+        font-size: 18px;
+    }
+    
+}
+
+@media only screen and (min-width:1520px) and (max-width:1699px){
+    .slider-container .slider-content h2{
+        font-size: 42px;
+    }
+   .slider-container .slider-content span{
+        font-size: 24px;
+    }
+    .primary-btn, .secondary-btn{
+        width: 300px;
+        height: 80px;
+        font-size: 24px;
+    }
+}
+
+@media (max-width:1119px){
+
+    #banner-sec .down-arrow{
+        display: none;
+    }
+    #product .right-sec > div{
+        padding-left: 0;
+    }
+    #working-demo,
+    #Industries{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    #features .title-row .section-content{
+        padding-left: 0;
+    }
+    .section-content span{
+        display: block;
+        margin:16px 0; 
+    }
+    #features .content-row .accordion{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    #features .content-row .accordion .card a.btn span{
+        font-size: 18px;
+    }
+    .slider-container{
+        padding: 70px 16px 16px 16px;
+    }
+    #Get-evaa .cta-evaa{
+        display: none;
+    }
+    #Footer .row-one .page-links.middle-row div,
+    #Footer .row-one .page-links.social-links div{
+        justify-content: flex-start;
+    }
+    #Footer .row-two .poweredBy p{
+        text-align: left
+    }
+    .get-started-btn{
+        margin: 0 auto !important;
+    }
+
+}
+
+@media (max-width:1024px){
+    .slider-container .slider-content h2{
+        font-size: 32px;
+    }
+    .slider-container .slider-content span{
+        font-size: 18px;
+    }
+    .primary-btn,.secondary-btn{
+        min-width: 205px;
+    }
+}
+
+@media (max-width:991px){
+    #banner-sec{
+    height: auto;
+    margin-top: 76px;
+    padding-top: 30px;
+    }
+    #banner-sec .right-div{
+        position: relative;
+    }
+    #banner-sec .row .right-sec div img{
+        display: block;
+        margin: 0 auto;
+    }
+
+    .slider-container .btn-pair a{
+        margin: 10px 0;
+    }
+    .btn-group{
+        display: block;
+    }
+    .sidenav, .sidenav2{
+        width: 100%;
+        right: -100%;
+    }
+    #product .right-sec{
+        padding-top: 30px;
+    }
+    .mobile-nav a{
+        border-radius: 0;
+        margin: 1.5rem 0;
+    }
+    #header .logo img{
+        padding-left: 0;
+    }
+
+    #banner-sec .btn-pair a:nth-child(1){
+        margin-right:16px;
+    }
+    #features .content-row::after{
+        width: 100%;
+    }
+    #features .content-row .right-sec .card{
+        margin: 0 auto;
+    }
+    #features .content-row .accordion .card a.btn img{
+        display: none;
+    }
+    #Additional{
+        margin-left: 0;
+    }
+    #product .pattern-3{
+        display: none;
+    }
+    #product{
+        padding-bottom: 16px;
+    }
+    #product .section-text{
+        padding: 16px 0;
+    }
+    #working-demo{
+        padding-top: 16px;
+    }
+    #working-demo .right-sec div{
+        max-width: 100%;
+        height: auto;
+    }
+    #working-demo .right-sec div ul{
+        padding-top: 60px;
+    }
+    #working-demo .left-sec .section-text{
+        padding-top: 20px;
+    }
+    #features .title-row{
+        padding-bottom: 0;
+    }
+    #Additional .section-content2 div .hea .Arrows{
+        position: absolute;
+        right: auto;
+        top: 0;
+        left: 0;
+    }
+    #prodModal .modal-content .row{
+        padding: 45px 16px 45px 16px;
+    }
+    .evaa-podium{
+        display: block;
+        margin: 16px auto;
+        left: auto;
+    }
+    
+}
+
+@media (max-width:661px){
+    #banner-sec .row .right-sec div .bottom-circle,
+    #banner-sec .row .right-sec div .bottom-circle-dashed{
+        display: none;
+    }
+    #Additional{
+        padding-left: 0;
+    }
+    #Additional .slider-row .card{
+        width: 100%;
+    }
+    #Additional .slider-row .card{
+        width: 320px;
+    }
+    #Additional .slider-row .slick-slide{
+        margin-right: 16px;
+        border-radius: 0;
+    }
+    #Additional .slider-row .card .curve{
+        display: none;
+    }
+    #Footer .row-one{
+        padding-bottom: 0;
+    }
+    #Footer .row-one,
+    #Footer .row-two,
+    #Footer .address-row{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    
+}
+
+@media (min-width:320px) and (max-width:525px){
+    .slider-container .slider-content h2{
+        font-size: 28px;
+    }
+    .slider-container .slider-content span{
+        font-size: 18px;
+    }
+    .slider-container{
+        padding-left: 0;
+    }
+    #working-demo .right-sec div{
+        padding: 16px;
+    }
+    #Additional .slider-row{
+        padding-bottom: 0;
+    }
+    .additional-slider .card .body h5 img{
+        right: 10px;
+        top: 10px;
+    }
+}
